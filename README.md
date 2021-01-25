@@ -2,7 +2,7 @@
 
 네이버 부스트코스 cs50 코칭스터디 2기 실습
 
-실습환경: C언어 / cs50 sandbox
+실습환경: C언어 / cs50 sandbox(단 여기서는 )
 
 
 ## Contents
